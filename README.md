@@ -1,11 +1,11 @@
 # xjin_videoapp_final
 
 ## Assignment Requirements
-Use Vue.js to update your view(s) with data and event binding. Explore components and client-side routing, should you wish to include more advanced Vue.js functionality.
+1. Use Vue.js to update your view(s) with data and event binding. Explore components and client-side routing, should you wish to include more advanced Vue.js functionality.
 ---------------------
-Each individual audio / video “page” (or view) should include reviews, ratings, movie details (director, year, genre, synopsis etc) including controls to add a new rating or review. The interactive elements should be handled by Vue.js - when a user adds a comment or a review/rating, update your view with Vue.js methods / data. Update the database with an AJAX call using the fetch API, or explore Axios with Vue.js.
+2. Each individual audio / video “page” (or view) should include reviews, ratings, movie details (director, year, genre, synopsis etc) including controls to add a new rating or review. The interactive elements should be handled by Vue.js - when a user adds a comment or a review/rating, update your view with Vue.js methods / data. Update the database with an AJAX call using the fetch API, or explore Axios with Vue.js.
 --------------------
-Filter through categories and display all of the selections available (load and play a default for each). Clicking on a thumbnail should load and play that video and show its details - for example its rating, reviews / starred reviews, as well as active social media icons.
+3. Filter through categories and display all of the selections available (load and play a default for each). Clicking on a thumbnail should load and play that video and show its details - for example its rating, reviews / starred reviews, as well as active social media icons.
 
 
 ## Detailed Requirements
